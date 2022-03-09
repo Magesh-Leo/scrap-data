@@ -1,0 +1,16 @@
+beautifulsoup4==4.10.0
+bs4==0.0.1
+docker==5.0.3
+entrypoints==0.3
+fastapi==0.74.1
+google-api-core==2.5.0
+google-auth==2.6.0
+google-cloud-core==2.2.2
+google-cloud-storage==2.1.0
+pydantic==1.9.0
+requests==2.27.1
+selenium==3.141.0
+starlette==0.17.1
+urllib3==1.26.8
+uvicorn==0.17.5
+webdriver-manager==3.5.3
